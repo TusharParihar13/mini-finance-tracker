@@ -76,6 +76,6 @@ This mini project helps users manage their **income and expenses** with real-tim
 ## 🙋‍♂️ Author
 
 **Tushar Parihar** – MCA Student | Python & Web Development Enthusiast  
-[GitHub Profile](https://github.com/TusharParihar13) | [LinkedIn](https://linkedin.com/in/tushar-parihar)
+[GitHub Profile](https://github.com/TusharParihar13) | [LinkedIn](https://linkedin.com/in/tusharparihar13)
 
 ---
